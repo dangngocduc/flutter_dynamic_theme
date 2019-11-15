@@ -39,4 +39,4 @@ class MyApp extends StatelessWidget {
 ```
 
 ## Demo
-![Demo Video](./2019_11_15_14_33_22.mp4)|
+![Demo Video](./GIF-191115_145316.gif)
